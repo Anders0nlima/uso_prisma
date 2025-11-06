@@ -1,0 +1,30 @@
+{
+  "name": "uso_prisma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anders0nlima/uso_prisma.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anders0nlima/uso_prisma/issues"
+  },
+  "homepage": "https://github.com/Anders0nlima/uso_prisma#readme",
+  "dependencies": {
+    "@prisma/client": "^6.19.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "dotenv": "^17.2.3",
+    "nodemon": "^3.1.10",
+    "prisma": "^6.19.0"
+  }
+}
